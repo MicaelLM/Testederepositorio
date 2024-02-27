@@ -1,2 +1,2 @@
 # Testederepositorio
- Simulando o versionando projetos
+ Simulando o versionamento de projetos
